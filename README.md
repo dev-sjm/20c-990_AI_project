@@ -18,7 +18,7 @@
 
 프로젝트명은 **22c-990**을 사용합니다. 연결된 음원 서비스에는 앨범명이 **20c-990**으로 표기되어 있습니다.
 
-공식 크레딧에서 **New Type**의 Music Producer, MIDI Programming, Keys/Bass/Drum, Guitar, Mixed by는 **Siberian Onion**으로, **Virtual Girl (But You're)**의 Music Producer와 MIDI Programming은 **RAMI**로 표기됩니다. 앨범의 작사·작곡·편곡 크레딧은 팀명 22세기아이들로 기재되어 있습니다. 아래 표는 실제 팀 내 분담을 설명합니다.
+공식 크레딧에서 **New Type**의 Music Producer, MIDI Programming, Keys/Bass/Drum, Guitar, Mixed by는 **Siberian Onion**으로, Virtual Girl (But You're)의 Music Producer와 MIDI Programming은 **RAMI**로 표기됩니다. 앨범의 작사·작곡·편곡 크레딧은 팀명 22세기아이들로 기재되어 있습니다. 아래 표는 실제 팀 내 분담을 설명합니다.
 
 ## 나의 기여
 
